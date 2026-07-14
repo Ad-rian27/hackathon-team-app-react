@@ -5,19 +5,19 @@ import NavigationBar from './NavigationBar'
 const AddTeam = () => {
     const [input, changeInput] = useState(
         {
-            "teamId": String,
-            "teamName": String,
-            "leadName": String,
-            "leadEmail": String,
-            "leadPhone": String,
-            "college": String,
-            "memberCount": String,
-            "title": String,
-            "probStateTrack": String,
-            "techStack": String,
-            "mentorName": String,
-            "regDate": String,
-            "tableNo": String
+            "teamId": "",
+            "teamName": "",
+            "leadName": "",
+            "leadEmail": "",
+            "leadPhone": "",
+            "college": "",
+            "memberCount": "",
+            "title": "",
+            "probStateTrack": "",
+            "techStack": "",
+            "mentorName": "",
+            "regDate": "",
+            "tableNo": ""
         }
     )
 
