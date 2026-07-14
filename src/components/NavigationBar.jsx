@@ -29,7 +29,7 @@ const NavigationBar = () => {
                             <li className="nav-item mx-2">
                                 <Link
                                     className="btn btn-outline-light rounded-pill px-4 fw-semibold"
-                                    to="/add"
+                                    to="/"
                                 >
                                     Add Team
                                 </Link>
